@@ -212,3 +212,17 @@ exit
 1. Vuelva al terminal `dotnet` en la lista desplegable de Visual Studio Code. Para apagar la API web, seleccione CTRL+C en el teclado.
 
 Ahora que ha creado la API web, la modificará para satisfacer las necesidades de la API web de pizza.
+
+[![contoso-E1-A.png](https://i.postimg.cc/rFgmW12g/contoso-E1-A.png)](https://postimg.cc/pphRMnTn)
+
+[![contoso-E1-B.png](https://i.postimg.cc/VN0L32rH/contoso-E1-B.png)](https://postimg.cc/TyG6b7cr)
+
+[![contoso-E1-C.png](https://i.postimg.cc/T343NTwD/contoso-E1-C.png)](https://postimg.cc/5X8J6d84)
+
+[![contoso-E1-D.png](https://i.postimg.cc/2S65x1zY/contoso-E1-D.png)](https://postimg.cc/rKBcVF0Z)
+
+[![contoso-E1-E.png](https://i.postimg.cc/C1yLYJbM/contoso-E1-E.png)](https://postimg.cc/R3RzL7P2)
+
+[![contoso-E1-F.png](https://i.postimg.cc/4dz43t16/contoso-E1-F.png)](https://postimg.cc/34xQSkVN)
+
+[![contoso-E1-G.png](https://i.postimg.cc/6qc9rXgT/contoso-E1-G.png)](https://postimg.cc/wRt8zS6d)
